@@ -1,4 +1,4 @@
-# 👋 Yo! I’m Omkar Patil (@omkarpatil14)
+# 👋 Hey! I’m Omkar Patil (@omkarpatil14)
 
 - 👀 I’m interested in making the web a cooler place, one bug fix at a time. 💻
 - 🌱 I’m currently leveling up my powers in **Full-Stack Development** with a side quest on **System Design**. Think of it like Mario getting a mushroom 🍄, but with code.
